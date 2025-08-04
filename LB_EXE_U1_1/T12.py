@@ -34,7 +34,7 @@ l_3.grid(row=2,column=0)
 ent_2 = tk.Entry(root)
 ent_2.grid(row=2,column=1)
 
-btn_chk = tk.Button(root,text="Login",fg="black",bg="light0.gray").grid(row=3,column=1)
+btn_chk = tk.Button(root,text="Login",fg="black",bg="lightgray").grid(row=3,column=1)
 btn_chk = tk.Button(root,text="Register",fg="blue",bg="lightgray").grid(row=4,column=1)
 
 root.mainloop()
